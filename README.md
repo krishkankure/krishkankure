@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hi, I'm Krish Kankure! <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
+<p><em>Student from Nashua, NH <img src="https://media.giphy.com/media/xT0Gqpg35RG3ljOWuk/giphy.gif" width="30"></br></em></p>
 
-<!--
-**krishkankure/krishkankure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub krishkankure](https://img.shields.io/github/followers/krishkankure?label=follow&style=social)](https://github.com/krishkankure)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://giphy.com/gifs/playboicarti-playboi-carti-3o7WICQ6jo6rEFpEEE" width="50"> A little more about me...  
+
+```javascript
+const krish = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
+  tools: [Vim, Linux, Node, Angular, Bash],
+
+  hobbies: "doing coding stuff"
+}
+```
+
+![Krish's github stats](https://github-readme-stats.vercel.app/api?username=krishkankure&hide=contribs,prs&count_private=true&show_icons=true)
+---
