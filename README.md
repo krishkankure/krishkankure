@@ -5,7 +5,7 @@
 [![GitHub krishkankure](https://img.shields.io/github/followers/krishkankure?label=follow&style=social)](https://github.com/krishkankure)
 
 
-### <img src="https://giphy.com/gifs/playboicarti-playboi-carti-3o7WICQ6jo6rEFpEEE" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/3o7WICQ6jo6rEFpEEE/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const krish = {
