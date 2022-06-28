@@ -9,7 +9,6 @@
 
 ```javascript
 const krish = {
-  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
   tools: [Vim, Linux, Node, Angular, Bash],
 
