@@ -12,7 +12,7 @@ const krish = {
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
   tools: [Vim, Linux, Node, Angular, Bash],
 
-  hobbies: "doing coding stuff"
+  hobbies: "yes"
 }
 ```
 
