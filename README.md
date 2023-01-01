@@ -1,10 +1,10 @@
 <h2> Hi, I'm Krish Kankure! <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
+
 <p><em>Student from Nashua, NH <img src="https://media.giphy.com/media/xT0Gqpg35RG3ljOWuk/giphy.gif" width="30"></br></em></p>
 
 [![GitHub krishkankure](https://img.shields.io/github/followers/krishkankure?label=follow&style=social)](https://github.com/krishkankure)
 
-
+### <img src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif" width="50"> A little more about me...  
 
 
 ```javascript
