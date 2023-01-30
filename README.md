@@ -1,6 +1,6 @@
-<h2> Hi, I'm Krish Kankure! <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"></h2>
+<h2> Krish Kankure <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"></h2>
 
-<p><em>Student from Nashua, NH <img src="https://media.giphy.com/media/xT0Gqpg35RG3ljOWuk/giphy.gif" width="30"></br></em></p>
+<p><em>Computer Science Student<img src="https://media.giphy.com/media/xT0Gqpg35RG3ljOWuk/giphy.gif" width="30"></br></em></p>
 
 
 
